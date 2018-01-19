@@ -6,6 +6,7 @@ from __future__ import print_function
 import numpy
 from scipy.sparse import coo_matrix, triu
 import sys
+import seaborn
 
 
 class Mesh:
